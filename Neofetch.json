@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Status", "value": "Research Intern @ CSIR-NPL" },
+        { "key": "Shell", "value": "Python / FastAPI" },
+        { "key": "Uptime", "value": "2nd year, exp. grad Jun 2028" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "{{languages}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Publications", "value": "2 (IEEE, Elsevier), 3 in review" },
+        { "key": "Also flying", "value": "Commercial pilot training" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "GitHub", "value": "github.com/{{username}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      "loc"
+    ]
+  }
+}
