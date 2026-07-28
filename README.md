@@ -9,10 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imrozdotpi&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/GSoC-2026%20Aspirant-2F81F7?style=flat" alt="GSoC 2026" />
-</p>
 
 ### Stats
 
@@ -47,6 +43,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imroz-saim-kamboj-233172346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:imrozsaimkamboj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:<EMAIL_ADDRESS>"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/Imrozdotpi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>

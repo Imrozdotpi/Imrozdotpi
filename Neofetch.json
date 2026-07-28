@@ -4,14 +4,24 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "Status", "value": "Research Intern @ CSIR-NPL" },
-        { "key": "Shell", "value": "Python / FastAPI" },
-        { "key": "Uptime", "value": "2nd year, exp. grad Jun 2028" }
+        { "key": "OS", "value": "<OS>" },
+        { "key": "Uptime", "value": "2nd year, exp. grad Jun 2028" },
+        { "key": "Host", "value": "<HOST>" },
+        { "key": "Kernel", "value": "<KERNEL>" },
+        { "key": "IDE", "value": "<IDE>" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "{{languages}}" }
+        { "key": "Languages.Programming", "value": "{{languages}}" },
+        { "key": "Languages.Computer", "value": "<LANGUAGES_COMPUTER>" },
+        { "key": "Languages.Real", "value": "<LANGUAGES_REAL>" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "<HOBBIES_SOFTWARE>" },
+        { "key": "Hobbies.Hardware", "value": "<HOBBIES_HARDWARE>" }
       ]
     },
     {
@@ -23,8 +33,10 @@
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "GitHub", "value": "github.com/{{username}}" }
+        { "key": "Email.Personal", "value": "{{email}}" },
+        { "key": "Email.Work", "value": "<EMAIL_WORK>" },
+        { "key": "LinkedIn", "value": "imroz-saim-kamboj-233172346" },
+        { "key": "Discord", "value": "<DISCORD>" }
       ]
     }
   ],
@@ -33,7 +45,6 @@
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
       "loc"
     ]
   }
