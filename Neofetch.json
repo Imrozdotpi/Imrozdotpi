@@ -4,24 +4,24 @@
       "title": "{{username}}@github",
       "fields": [
         { "key": "Name", "value": "{{name}}" },
-        { "key": "OS", "value": "<OS>" },
+        { "key": "OS", "value": "ADD-OS-HERE" },
         { "key": "Uptime", "value": "2nd year, exp. grad Jun 2028" },
-        { "key": "Host", "value": "<HOST>" },
-        { "key": "Kernel", "value": "<KERNEL>" },
-        { "key": "IDE", "value": "<IDE>" }
+        { "key": "Host", "value": "ADD-HOST-HERE" },
+        { "key": "Kernel", "value": "ADD-KERNEL-HERE" },
+        { "key": "IDE", "value": "ADD-IDE-HERE" }
       ]
     },
     {
       "fields": [
         { "key": "Languages.Programming", "value": "{{languages}}" },
-        { "key": "Languages.Computer", "value": "<LANGUAGES_COMPUTER>" },
-        { "key": "Languages.Real", "value": "<LANGUAGES_REAL>" }
+        { "key": "Languages.Computer", "value": "ADD-LANGUAGES-COMPUTER-HERE" },
+        { "key": "Languages.Real", "value": "ADD-LANGUAGES-REAL-HERE" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "<HOBBIES_SOFTWARE>" },
-        { "key": "Hobbies.Hardware", "value": "<HOBBIES_HARDWARE>" }
+        { "key": "Hobbies.Software", "value": "ADD-HOBBIES-SOFTWARE-HERE" },
+        { "key": "Hobbies.Hardware", "value": "ADD-HOBBIES-HARDWARE-HERE" }
       ]
     },
     {
@@ -34,9 +34,9 @@
       "title": "- Contact",
       "fields": [
         { "key": "Email.Personal", "value": "{{email}}" },
-        { "key": "Email.Work", "value": "<EMAIL_WORK>" },
+        { "key": "Email.Work", "value": "ADD-EMAIL-WORK-HERE" },
         { "key": "LinkedIn", "value": "imroz-saim-kamboj-233172346" },
-        { "key": "Discord", "value": "<DISCORD>" }
+        { "key": "Discord", "value": "ADD-DISCORD-HERE" }
       ]
     }
   ],
