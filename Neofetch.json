@@ -1,4 +1,6 @@
 {
+  "image": "https://raw.githubusercontent.com/Imrozdotpi/Imrozdotpi/main/imroz-art-duotone.png",
+  "coloredImage": true,
   "sections": [
     {
       "title": "{{username}}@github",
