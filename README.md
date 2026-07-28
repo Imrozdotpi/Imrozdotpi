@@ -1,6 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=CSE+%2B+Data+Science+%40+NorthCap+University;Research+Intern+%40+CSIR-NPL;Preparing+for+GSoC+2026;Aspiring+Commercial+Pilot+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
-</h1>
+### Terminal card
+
+<p align="center">
+  <a href="https://github.com/jeantimex/neofetch-profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
+      <img alt="Neofetch profile" src="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Imrozdotpi&label=Profile%20views&color=2F81F7&style=flat" alt="Profile views" />
@@ -36,21 +43,10 @@
   </a>
 </p>
 
-### Terminal card
-
-<p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
-      <img alt="Neofetch profile" src="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
-    </picture>
-  </a>
-</p>
-
 ### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imroz-saim-kamboj-233172346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:<EMAIL_ADDRESS>"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:imrozsaimkamboj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/Imrozdotpi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
