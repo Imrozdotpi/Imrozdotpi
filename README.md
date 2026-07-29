@@ -1,68 +1,56 @@
 <!--
-  README TODOs — search for these and swap them out:
-  - the typing-svg "lines=" text  -> tagline / motto
-  - [TOOL]                        -> "I use ___ btw" badge
-  - imroz-art-duotone.png         -> swap for your own logo/mascot if you want
-  - skillicons "i=" list          -> your real tech stack, pick icons at skillicons.dev
+  Remaining placeholders to swap out yourself:
+  - skillicons "i=" list   -> adjust to taste at skillicons.dev
+  - social links email     -> real address, if you want it public
 -->
 
-<h1 align="center">Hello There!</h1>
-
 <p align="center">
-  I'm <strong>Imroz Kamboj</strong>, a CS undergrad at The NorthCap University.<br />
-  I build RAG pipelines, computer-vision systems, and full-stack apps — and I'm training to fly on the side.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1500&color=70A5FD&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Imroz+Kamboj%3BCS+Undergrad+%40+NorthCap+University%3BBuilding+RAG+%26+CV+systems" alt="typing banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=%22Your+tagline+or+motto+goes+here%22" alt="tagline" />
-</p>
-<p align="center"><i>— attribution / source, placeholder</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/I%20use-%5BTOOL%5D%20btw-39FF14?style=for-the-badge&labelColor=0D1117" alt="I use [TOOL] btw" />
+  I build RAG pipelines, computer-vision systems, and full-stack apps. Co-authored two papers on image encryption (IEEE, Elsevier), and currently training for a commercial pilot license on the side.
 </p>
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="./imroz-art-duotone.png" alt="logo / mascot placeholder" width="180" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,fastapi,pytorch,git,github,linux,sqlite&theme=dark" alt="tech stack" />
 </p>
 
-### stack
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git&theme=dark" alt="tech stack placeholder — swap the icon list at skillicons.dev" />
+  <a href="https://github.com/Imrozdotpi/npl-docseal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imrozdotpi&repo=npl-docseal&theme=tokyonight&hide_border=true" alt="npl-docseal" />
+  </a>
+  <a href="https://github.com/Imrozdotpi/RAG-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imrozdotpi&repo=RAG-chatbot&theme=tokyonight&hide_border=true" alt="RAG-chatbot" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Imrozdotpi/Decision-Labeler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imrozdotpi&repo=Decision-Labeler&theme=tokyonight&hide_border=true" alt="Decision-Labeler" />
   </a>
 </p>
 
-### stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrozdotpi&layout=compact&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_radius=8" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imrozdotpi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrozdotpi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://leetcode.com/Imrozdotpi">
-        <img src="https://leetcard.jacoblin.cool/Imrozdotpi?theme=dark&extension=activity" alt="LeetCode stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Imrozdotpi&background=0D1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9&hide_border=false" alt="GitHub streak stats" />
-    </td>
-  </tr>
-</table>
-
-### contributions
+## 🔥 Contribution Streak
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
-    <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph" />
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Imrozdotpi&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
+## 🌐 Social Links
+
 <p align="center">
-  <sub>Won't render until the workflow below runs once — trigger it manually from Actions after your first push.</sub>
+  <a href="https://www.linkedin.com/in/imroz-saim-kamboj-233172346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/Imrozdotpi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
