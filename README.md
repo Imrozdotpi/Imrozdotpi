@@ -1,48 +1,78 @@
-### Terminal card
+<!--
+  README TODOs — search for these and swap them out:
+  - [Name] / [role or field] / [interests]  -> bio, section: whoami
+  - the typing-svg "lines=" text            -> tagline / motto
+  - [TOOL]                                   -> "I use ___ btw" badge
+  - imroz-art-duotone.png                    -> swap for your own logo/mascot if you want
+  - skillicons "i=" list                     -> your real tech stack, pick icons at skillicons.dev
+  - YOUR_GFG_USERNAME                        -> your GeeksforGeeks handle (see caveat near that card)
+-->
+
+<h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
-      <img alt="Neofetch profile" src="https://neofetch-profile.vercel.app/api?username=Imrozdotpi&theme=github-light&config=https%3A%2F%2Fraw.githubusercontent.com%2FImrozdotpi%2FImrozdotpi%2Fmain%2Fneofetch.json">
-    </picture>
-  </a>
-</p>
-
-
-### Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imrozdotpi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrozdotpi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imrozdotpi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <a href="https://leetcode.com/Imrozdotpi">
-    <img src="https://leetcard.jacoblin.cool/Imrozdotpi?theme=dark&extension=activity" alt="LeetCode stats" />
-  </a>
+  I'm <strong>[Name]</strong>, a <strong>[role / field]</strong>.<br />
+  I love to <strong>[interests]</strong>.
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imrozdotpi/Imrozdotpi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imrozdotpi/Imrozdotpi/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Imrozdotpi/Imrozdotpi/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=%22Your+tagline+or+motto+goes+here%22" alt="tagline" />
 </p>
+<p align="center"><i>— attribution / source, placeholder</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20use-%5BTOOL%5D%20btw-39FF14?style=for-the-badge&labelColor=0D1117" alt="I use [TOOL] btw" />
+</p>
+
+<p align="center">
+  <img src="./imroz-art-duotone.png" alt="logo / mascot placeholder" width="180" />
+</p>
+
+### stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,js,cpp,githubactions,git&theme=dark" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git&theme=dark" alt="tech stack placeholder — swap the icon list at skillicons.dev" />
   </a>
 </p>
 
-### Contact
+### stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imroz-saim-kamboj-233172346"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:<EMAIL_ADDRESS>"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/Imrozdotpi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imrozdotpi&layout=compact&hide_border=false&border_color=39FF14&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&border_radius=8" alt="Most Used Languages" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/Imrozdotpi">
+        <img src="https://leetcard.jacoblin.cool/Imrozdotpi?theme=dark&extension=activity" alt="LeetCode stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+        <img src="https://gfgstatscard.vercel.app/YOUR_GFG_USERNAME" alt="GeeksforGeeks stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>
+    ⚠️ The GFG card above comes from <code>gfgstatscard.vercel.app</code>, a small unofficial
+    community project (no official GeeksforGeeks stats API exists). It's live as of this
+    writing, but it's a single-maintainer Vercel deploy with no uptime guarantee — worth
+    checking it still renders every so often, and having a fallback (a static badge, or
+    dropping the card) in mind if it goes dark.
+  </sub>
+</p>
+
+### contributions
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</p>
+
+<p align="center">
+  <sub>Generated by the workflow below — run it once manually (Actions → the workflow → Run workflow) after your first push, since the SVG doesn't exist until it's run at least once.</sub>
 </p>
