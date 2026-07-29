@@ -59,7 +59,7 @@
 ## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Imrozdotpi&theme=tokyonight&hide_border=false" alt="GitHub streak stats" />
+  <img src="./profile/streak.svg" alt="GitHub streak stats" />
 </p>
 
 ## Social Links

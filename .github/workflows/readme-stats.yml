@@ -49,6 +49,12 @@ jobs:
           path: profile/pin-decision-labeler.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "user=Imrozdotpi&theme=tokyonight&hide_border=false"
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: commit and push
         run: |
           git config user.name "github-actions[bot]"
