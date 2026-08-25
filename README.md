@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I build RAG pipelines, computer-vision systems, and full-stack apps. Co-authored two papers on image encryption (IEEE, Elsevier), and currently training for a commercial pilot license on the side.
+  I build RAG pipelines, computer-vision systems, and full-stack apps.
 </p>
 
 ## Tech Stack
